@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 ﻿public class Question
   public static void main(String[] args){
     HellowThread t1 = new HelloThread();
@@ -43,4 +43,6 @@ class ThreadB implements Runnable{
 	}
 
 >>>>>>> younglink0612-B_Branch
+}
+class ThreadC {
 }
